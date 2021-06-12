@@ -2,10 +2,11 @@
 
 ## Assumptions made
 
-### - Investment started 2nd Jan 2015
+#### - Investment started 2nd Jan 2015
 
-### - Starting funds of USD $100,000 assumed
+#### - Starting funds of USD $100,000 assumed
 
-### - VTI is assumed for StashAway Risk Index 14%
+#### - VTI is assumed for StashAway Risk Index 14%
 
-### https://stashaway-assignment.netlify.app/
+#### https://stashaway-assignment.netlify.app/
+#### Kindly wait for around 30 seconds before switching between time period tabs due to limitation of API
