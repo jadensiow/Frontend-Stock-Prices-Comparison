@@ -1,4 +1,4 @@
-# StashAways-Frontend-Recruitment-Assignment
+# StashAways-Frontend-Assignment
 
 ## Assumptions made
 
