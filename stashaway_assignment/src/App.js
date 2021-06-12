@@ -56,7 +56,7 @@ const App = () => {
     SYMBOLS.forEach((sym) => {
       const u = url(sym.name);
       axios.get(u).then((res) => {
-        console.log("res = ", res.data);
+        // console.log("res = ", res.data);
         sym.func(res.data[returnObjectProperty[adjust]]);
         setLoading(false);
       });
@@ -100,14 +100,14 @@ const App = () => {
 
     // let iterations = dataAdjustedAs.iterations;
 
-    console.log(
-      "iterations = ",
-      iterations,
-      "dataAdjustedAs = ",
-      dataAdjustedAs,
-      "data Range = ",
-      dataRange
-    );
+    // console.log(
+    //   "iterations = ",
+    //   iterations,
+    //   "dataAdjustedAs = ",
+    //   dataAdjustedAs,
+    //   "data Range = ",
+    //   dataRange
+    // );
 
     // assume investment started 02/01/2015
     let investFund = 100000;

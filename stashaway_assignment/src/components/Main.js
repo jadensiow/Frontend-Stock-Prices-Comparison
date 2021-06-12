@@ -7,7 +7,7 @@ const Main = (props) => {
   // console.log(props);
   const array = {
     data: props,
-    title: "Things",
+    title: "Investment",
   };
   const [dateButtonsMap, setDateButtonsMap] = useState([
     { text: dateButtonText.ONE_MONTH.text, className: "" },
