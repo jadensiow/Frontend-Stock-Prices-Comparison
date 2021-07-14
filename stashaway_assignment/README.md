@@ -8,5 +8,5 @@
 
 #### - VTI is assumed for StashAway Risk Index 14%
 
-#### https://stashaway-assignment.netlify.app/
+#### https://frontend-stock-prices-comparison.netlify.app/
 #### Kindly wait for around 30 seconds before switching between time period tabs due to limitation of API
